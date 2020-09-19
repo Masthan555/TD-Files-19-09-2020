@@ -8,13 +8,6 @@ Welcome to Web Design and Development - Apssdc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   :numbered:
+   
+   f1.md
